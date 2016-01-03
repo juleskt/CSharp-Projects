@@ -1,0 +1,10 @@
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.exe.config
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.exe
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.pdb
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.exe
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.pdb
+c:\users\julian\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.Slides.resources

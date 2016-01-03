@@ -1,0 +1,10 @@
+c:\users\julian\documents\visual studio 2013\Projects\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\obj\Debug\EightQueens.Form1.resources
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\obj\Debug\EightQueens.Properties.Resources.resources
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\bin\Debug\EightQueens.exe
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\obj\Debug\EightQueens.exe
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\obj\Debug\EightQueens.pdb
+C:\Users\Julian\Desktop\Junior\447\EightQueens\EightQueens\obj\Debug\EightQueens.csprojResolveAssemblyReference.cache
