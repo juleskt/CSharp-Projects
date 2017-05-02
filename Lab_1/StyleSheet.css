@@ -1,0 +1,100 @@
+﻿body {
+    background-color: #74AFAD;
+    font-family: sans-serif;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1080px;
+}
+
+.large-font {
+    font-size: 250%;
+}
+
+.heading-space {
+    position: relative;
+    top: 50px;
+}
+
+.interests-pictures {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.professional-goals-pictures {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+#nav {
+    position: fixed;
+    width: 100%;
+    /*background-color: #558C89;*/
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: #333;*/
+}
+
+ul.about {
+    list-style-type: square;
+}
+
+li.nav {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.info-margin {
+    margin-top: 10px;
+}
+
+.bot-margin {
+    margin-bottom: 20px;
+}
+
+.intro-columns {
+    column-count: 2;
+}
+
+.hover {
+    background-color: white;
+    display: inline-block;
+}
+
+.hover img:hover {
+    opacity: .5;
+}
+
+p {
+     border-width: 1px;
+     border-radius: 5px;
+     border-color: #D9853B;
+}
